@@ -86,8 +86,6 @@ lib/
 
 ## 🗺️ What's next
 
-- [ ] Workout history & stats
-- [ ] Skip segment during active session
 - [ ] Background timer with lock screen notification
 - [ ] Exercise library
 - [ ] Wear OS / Apple Watch
